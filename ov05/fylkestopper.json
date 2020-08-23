@@ -1,0 +1,22 @@
+{"fjelltopper":[
+    {"fylke":"Buskerud","name":"Folarskardnuten","height":1933},
+    {"fylke":"Akershus","name":"Fjellsjøkampen","height":812},
+    {"fylke":"Aust-Agder","name":"Sæbyggjenuten","height":1507},
+    {"fylke":"Finnmark","name":"Øksfjordjøkelen","height":1191},
+    {"fylke":"Hedmark","name":"Rondslottet","height":2178},
+    {"fylke":"Hordaland","name":"Hardangerjøkulen","height":1861},
+    {"fylke":"Møre og Romsdal","name":"Pyttegga","height":1999},
+    {"fylke":"Nord-Trøndelag","name":"Jetnamsklumpen","height":1512},
+    {"fylke":"Nordland","name":"Oksskolten","height":1915},
+    {"fylke":"Oppland","name":"Galdhøpiggen","height":2469},
+    {"fylke":"Oslo","name":"Kjerkeberget","height":630},
+    {"fylke":"Rogaland","name":"Vassdalseggi","height":1658},
+    {"fylke":"Sogn og Fjordane","name":"Store Skagastølstinden","height":2405},
+    {"fylke":"Sør-Trøndelag","name":"Storskrymten","height":1985},
+    {"fylke":"Telemark","name":"Gaustatoppen","height":1883},
+    {"fylke":"Troms","name":"Jiehkkevárri","height":1834},
+    {"fylke":"Vest Agder","name":"Urdalsknuten","height":1433},
+    {"fylke":"Vestfold","name":"Vestfjellet","height":634},
+    {"fylke":"Østfold","name":"Slavasshøgda","height":336}
+    ]
+}
