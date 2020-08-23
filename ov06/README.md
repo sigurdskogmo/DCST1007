@@ -10,6 +10,14 @@ Lag en applikasjon som viser CV'en din ved hjelp av flere sider. Menyen kan for 
 
 Applikasjonen kan for eksempel se omtrent slik ut ved oppstart:
 
-| Knut's CV               | Utdanning | Arbeidserfaring | Interesser |
-|-------------------------|-----------|-----------------|------------|
-| Velkommen til Knut's Cv                                            |
+<table>
+  <tr>
+    <th>Knut's CV</th>
+    <th>Utdanning</th>
+    <th>Arbeidserfaring</th>
+    <th>Interesser</th>
+  </tr>
+  <tr>
+    <td colspan=4>Velkommen til Knut's CV</td>
+  </tr>
+</table>
