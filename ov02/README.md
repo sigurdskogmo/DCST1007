@@ -36,7 +36,7 @@ Lag en metode som heter kontoInformasjon(). Den kan kalles slik:
 
 ```kari.kontoInformasjon()```
 
-og skal i så fall skrive ut følgende: \”_Kari Hansen med kundenummer 93827100 har 429
+og skal i så fall skrive ut følgende: ”_Kari Hansen med kundenummer 93827100 har 429
 kroner på konto_” dersom det er dette beløpet Kari har akkurat nå. 
 
 ## Oppgave 5 - Din egen lille bank! Opprett tre bankkontoer
